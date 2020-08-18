@@ -1,7 +1,3 @@
-/**
- * Copyright: Copyright (c)2020
- * Company: 联通支付(unicom)
- */
 package com.xiaoxiao.arithmetic.frame.lianbiao;
 
 /**
